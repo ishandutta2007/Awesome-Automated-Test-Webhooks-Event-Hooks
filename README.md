@@ -7,7 +7,7 @@
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Test-Webhooks-Event-Hooks?style=social&color=white)](https://github.com/ishandutta2007/Awesome-Automated-Test-Webhooks-Event-Hooks/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Test-Webhooks-Event-Hooks?style=social&color=white)](https://github.com/ishandutta2007/Awesome-Automated-Test-Webhooks-Event-Hooks/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Automated-Test-Webhooks-Event-Hooks/pulls)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
@@ -70,9 +70,9 @@ The table below lists leading commercial SaaS products supporting webhook delive
 
 ## 🌐 Open-Source Webhook Infrastructure & Testing Tools
 
-The following genuine open-source webhook solutions are actively maintained and sorted in descending order by **GitHub Star Count**. Each repository badge links directly to its stargazers page.
+The following genuine open-source webhook solutions are actively maintained and sorted in descending order by **GitHub Stars_Count**. Each repository badge links directly to its stargazers page.
 
-| 📦 Repository | ⭐ GitHub Stars Badge | 💻 Primary Language | 📝 Description & Primary Use Case |
+| 📦 Repository | ⭐ GitHub_Stars_Badge | 💻 Primary Language | 📝 Description & Primary Use Case |
 |:---|:---:|:---:|:---|
 | **[adnanh/webhook](https://github.com/adnanh/webhook)** | [![adnanh/webhook Stars](https://img.shields.io/github/stars/adnanh/webhook?style=social&color=white)](https://github.com/adnanh/webhook/stargazers) | Go | Lightweight, highly configurable incoming webhook server written in Go that runs arbitrary shell scripts, deployment commands, and CI tasks upon receiving HTTP requests. |
 | **[webhooksite/webhook.site](https://github.com/webhooksite/webhook.site)** | [![webhooksite/webhook.site Stars](https://img.shields.io/github/stars/webhooksite/webhook.site?style=social&color=white)](https://github.com/webhooksite/webhook.site/stargazers) | PHP / Vue | Self-hostable edition of Webhook.site. Inspect, test, and debug incoming HTTP webhooks and API calls in real time using a reactive web dashboard. |
